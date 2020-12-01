@@ -12,8 +12,8 @@ page_sections:
     link_text: Services
   - link: "#recent"
     link_text: Recent Work
-  - link: ''
-    link_text: ''
+  - link: "#references"
+    link_text: References
   - link: ''
     link_text: ''
   - link: ''
