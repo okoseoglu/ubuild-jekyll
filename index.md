@@ -20,8 +20,8 @@ page_sections:
   - link_text: Contact
     link: "#contact"
   cta:
-    url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-    button_text: Import
+    url: ''
+    button_text: ''
 - template: hero-banner-w-image
   block: hero-2
   slug: features
