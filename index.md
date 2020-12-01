@@ -31,7 +31,7 @@ page_sections:
     button_text: ''
   image:
     image: "/uploads/2020/12/01/ayvali.jpg"
-    alt_text: Product Şot
+    alt_text: ev shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
   block: feature-1
