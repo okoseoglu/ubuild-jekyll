@@ -8,8 +8,8 @@ page_sections:
   navigation:
   - link: "#home"
     link_text: Home
-  - link: ''
-    link_text: ''
+  - link: "#services"
+    link_text: Services
   - link: ''
     link_text: ''
   - link: ''
