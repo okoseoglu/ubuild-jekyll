@@ -13,8 +13,8 @@ page_sections:
     link_text: Services
   - link: "#recent"
     link_text: Recent Work
-  - link: "#responsive"
-    link_text: Responsive
+  - link: "#references"
+    link_text: References
   - link: "#blocks"
     link_text: Blocks
   cta:
