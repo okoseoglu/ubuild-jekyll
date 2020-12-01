@@ -15,8 +15,8 @@ page_sections:
     link_text: Recent Work
   - link: "#references"
     link_text: References
-  - link: "#blocks"
-    link_text: Blocks
+  - link: "#about"
+    link_text: About
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
     button_text: Import
