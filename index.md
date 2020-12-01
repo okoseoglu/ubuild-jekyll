@@ -31,7 +31,7 @@ page_sections:
     button_text: ''
   image:
     image: "/uploads/2018/06/21/edit.gif"
-    alt_text: Product Shot
+    alt_text: Product Şot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
   block: feature-1
