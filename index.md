@@ -22,7 +22,8 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: uBuild <br><strong>design blocks</strong>
+  headline: Oğul Köseoğlu<br><strong>Translator and interpreter<br>based in Istanbul,
+    Turkey</strong>
   content: The tool that allows you to build beautiful sites<br>all inside Forestry's
     content manager.
   cta:
