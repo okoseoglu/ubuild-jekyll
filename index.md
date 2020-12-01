@@ -7,7 +7,7 @@ page_sections:
   block: header-2
   logo: ''
   navigation:
-  - link: "/"
+  - link: "#home"
     link_text: Home
   - link: "#services"
     link_text: Services
