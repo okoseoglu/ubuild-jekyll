@@ -17,6 +17,8 @@ page_sections:
     link_text: References
   - link: "#about"
     link_text: About
+  - link_text: Contact
+    link: "#contact"
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
     button_text: Import
