@@ -16,8 +16,8 @@ page_sections:
     link_text: References
   - link: "#about"
     link_text: About
-  - link: ''
-    link_text: ''
+  - link: "#contact"
+    link_text: Contact
   logo: ''
 - template: navigation-header-w-button
   block: header-2
