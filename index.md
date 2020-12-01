@@ -10,8 +10,8 @@ page_sections:
     link_text: Home
   - link: "#services"
     link_text: Services
-  - link: ''
-    link_text: ''
+  - link: "#recent"
+    link_text: Recent Work
   - link: ''
     link_text: ''
   - link: ''
