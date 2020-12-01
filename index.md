@@ -11,8 +11,8 @@ page_sections:
     link_text: Home
   - link: "#services"
     link_text: Services
-  - link: "#swap"
-    link_text: Swap
+  - link: "#recent"
+    link_text: Recent Work
   - link: "#responsive"
     link_text: Responsive
   - link: "#blocks"
