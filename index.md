@@ -5,12 +5,12 @@ date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2018/06/21/forestry-full.svg"
+  logo: ''
   navigation:
   - link: "/"
-    link_text: Ubuild
-  - link: "#customize"
-    link_text: Customize
+    link_text: Home
+  - link: "#services"
+    link_text: Services
   - link: "#swap"
     link_text: Swap
   - link: "#responsive"
