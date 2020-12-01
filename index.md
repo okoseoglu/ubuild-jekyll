@@ -14,8 +14,8 @@ page_sections:
     link_text: Recent Work
   - link: "#references"
     link_text: References
-  - link: ''
-    link_text: ''
+  - link: "#about"
+    link_text: About
   - link: ''
     link_text: ''
   logo: ''
