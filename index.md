@@ -19,25 +19,6 @@ page_sections:
   - link: "#contact"
     link_text: Contact
   logo: ''
-- template: navigation-header-w-button
-  block: header-2
-  logo: ''
-  navigation:
-  - link: "#home"
-    link_text: Home
-  - link: "#services"
-    link_text: Services
-  - link: "#recent"
-    link_text: Recent Work
-  - link: "#references"
-    link_text: References
-  - link: "#about"
-    link_text: About
-  - link_text: Contact
-    link: "#contact"
-  cta:
-    url: ''
-    button_text: ''
 - template: hero-banner-w-image
   block: hero-2
   slug: features
