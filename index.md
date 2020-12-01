@@ -30,7 +30,7 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: ''
   image:
-    image: "/uploads/2018/06/21/edit.gif"
+    image: "/uploads/2020/12/01/ayvali.jpg"
     alt_text: Product Şot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
