@@ -8,6 +8,5 @@ page_sections:
   image: "/uploads/2018/06/21/theme.png"
   slug: ''
   caption: ''
-published: false
 
 ---
