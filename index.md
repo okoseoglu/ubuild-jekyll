@@ -36,6 +36,6 @@ page_sections:
   slug: ''
 - template: simple-footer
   block: footer-1
-  content: Made with ❤︎ in Canada
+  content: Simple ❤︎ Footer
 
 ---
