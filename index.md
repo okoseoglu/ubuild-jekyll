@@ -8,7 +8,7 @@ page_sections:
   logo: "/uploads/2018/06/21/forestry-full.svg"
 - template: 1-column-text
   block: one-column-1
-  content: <img src="/uploads/2018/06/21/forestry-full.svg">Consectetur adipiscing
+  content: <img src="/uploads/2018/06/21/forestry-full.svg"><br>Consectetur adipiscing
     elit. Phasellus quis aliquam erat, eu viverra quam. Proin est tellus, eleifend
     non porta eu, pulvinar dapibus nulla. Nam ultricies ornare quam, eget mattis turpis.
     Nam eu est eleifend, tincidunt massa nec, ultrices libero. Nulla magna nulla,
