@@ -19,20 +19,6 @@ page_sections:
   - link: "#contact"
     link_text: Contact
   logo: ''
-- template: hero-banner-w-image
-  block: hero-2
-  slug: features
-  headline: "<strong>Oğul Köseoğlu</strong><br>Translator and interpreter<br>based
-    in Istanbul, Turkey"
-  content: ''
-  cta:
-    enabled: false
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: ''
-  image:
-    image: "/uploads/2020/12/01/ayvali.jpg"
-    alt_text: ev shot
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
   block: feature-1
   media_alignment: Left
